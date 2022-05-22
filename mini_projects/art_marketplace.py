@@ -1,6 +1,6 @@
 # Veneer - Buying and selling art
 
-class Art:
+class Artt:
   def __init__(self, artist, title, medium, year, owner):
     self.artist = artist
     self.title = title
